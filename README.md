@@ -31,15 +31,20 @@ Pede-se:
 1 - **Ler as matrículas que estão no arquivo matriculasSemDV.txt e gerar um arquivo de saída matriculasComDV.txt com as matrículas completas, conforme regra de formação descrita acima.**
 
 Exemplo:
-| matriculasSemDV.txt 9876 9992  | matriculasComDV.txt 9876-E 9992-0 |
-|--|--|
+matriculasSemDV.txt| matriculasComDV.txt|
+-------------------|--------------------|
+9876               | 9876-E             |
+9992               | 9992-0             |                         
+
 
 2 - **Ler as matrículas que estão no arquivo matriculasParaVerificar.txt e gerar um arquivo matriculasVerificadas.txt com as matrículas e um indicador de "verdadeiro" ou "falso" ao lado de cada matrícula, separado por espaço.**
 
 Exemplo:
 
-| matriculasParaVerificar.txt 9876-E 9992-2 |  matriculasVerificadas.txt 9876-E verdadeiro 9992-2 falso|
+| matriculasParaVerificar.txt|  matriculasVerificadas.txt  |
 |--|--|
+|9876-E|9876-E verdadeiro|
+|9992-2|9992-2 falso|
 
 **O que DEVE ser enviado como resultado do desafio:**
 
