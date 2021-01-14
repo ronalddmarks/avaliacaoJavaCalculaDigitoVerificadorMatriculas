@@ -22,7 +22,9 @@ Total = 45 + 32 + 21 + 12 = 110
 
 
 Resto da divisão de 110 por 16 é igual a 14.
+
 O número 14 em base 16 é "E". Este é o dígito verificador da matrícula.
+
 Matrícula completa = 9876-E
 
 Pede-se:
@@ -42,7 +44,9 @@ Exemplo:
 **O que DEVE ser enviado como resultado do desafio:**
 
 1 - Os arquivos de entrada e saída dos tópicos 1 e 2 acima;
-2 - O código-fonte da solução; e
+
+2 - O código-fonte da solução; 
+
 3 - Um arquivo Leiame.txt com a descrição da solução e como utilizá-la.
 
 Importante: todos os arquivos devem ser enviados em um único ZIP. Não incluir os arquivos binários (.exe, .jar, .dll) no ZIP pois alguns serviços de e-mail bloqueiam este tipo de arquivo.
