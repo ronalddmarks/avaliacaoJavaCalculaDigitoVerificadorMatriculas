@@ -1,0 +1,9 @@
+Foi desenvolvido um aplicativo em Java que calcula o dígito verificador conforme as regas de formação descrita no documento do desafio.
+No desenvolvimento da aplicação foi criado uma classe Principal para a execução do código essa classe chama uma classe auxiliar com nome de "Servico", nela que faz todo o controle da aplicação fazendo a leitura/gravação dos dados nos arquivos txt, calculando o digito validador aplicando as regras para que o aplicativo funcione conforme solicitado.
+
+A IDE utilizada foi o Eclipse: para fazer a importação do projeto vá ao menu File>Import, no diretório General selecione "Existing Projects into Workspace" e pressione Next, selecione o diretório na opção "Select root directory" e precione Finish.
+
+Apos a importação se faz necessário a configuração do caminho dos arquivos txt de entrada e saída. Com o projeto aberto vá em: "matricula>>src/main/java>>constant>>URL.java" nessa classe e configurado o caminho de todos os arquivos txt da aplicação.
+
+Para executar a aplicação clique com o botão direito sobre a classe Principal que fica localizada em: "matricula>>src/main/java>>principal>>Principal.java" va na opção: "Run As>>Java Application" que o programa sera executado.
+
