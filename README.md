@@ -9,11 +9,17 @@ Dada uma matrícula de 0000 a 9999 o cálculo do dígito verificador deverá ser
 Exemplo: Matrícula = 9876
 
 Cálculo:
+
 9 * 5 = 45
+
 8 * 4 = 32
+
 7 * 3 = 21
+
 6 * 2 = 12
+
 Total = 45 + 32 + 21 + 12 = 110
+
 
 Resto da divisão de 110 por 16 é igual a 14.
 O número 14 em base 16 é "E". Este é o dígito verificador da matrícula.
