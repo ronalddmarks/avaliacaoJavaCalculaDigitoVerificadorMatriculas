@@ -1,4 +1,4 @@
-Fui subimetido a uma avaliação pratica, com objetivo de trabalhar em uma empresa como desenvolvedor Java. O desafio foi comcluido e estou deixando a resposta registrada para consulta futura.
+Fui submetido a uma avaliação pratica, com objetivo de trabalhar em uma empresa como desenvolvedor Java. O desafio foi concluído e estou deixando a resposta registrada para consulta futura.
 
 # Processo seletivo Java.
 **Controle de matrícula**
@@ -30,9 +30,8 @@ Exemplo:
 
 Exemplo:
 
-matriculasParaVerificar.txt matriculasVerificadas.txt
-9876-E 9876-E verdadeiro
-9992-2 9992-2 falso
+| matriculasParaVerificar.txt 9876-E 9992-2 |  matriculasVerificadas.txt 9876-E verdadeiro 9992-2 falso|
+|--|--|
 
 **O que DEVE ser enviado como resultado do desafio:**
 
